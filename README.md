@@ -54,4 +54,13 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 ---
 
+Dashboard 
+
+<img width="1440" alt="Screen Shot 2022-05-11 at 15 28 14" src="https://user-images.githubusercontent.com/49625259/167874595-e1d9d4fe-1782-4013-8664-7ecfcf74ca09.png">
+
+api call 
+
+<img width="1440" alt="Screen Shot 2022-05-11 at 15 28 23" src="https://user-images.githubusercontent.com/49625259/167874641-5936b5a6-eea9-453e-8307-7f60ae7078fb.png">
+
+
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
